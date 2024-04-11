@@ -1,1 +1,1 @@
-# gerador-de-senha-dia-11-04-2024
+# gerador-de-senha
